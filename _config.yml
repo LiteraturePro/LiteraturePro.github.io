@@ -8,8 +8,7 @@ facebook: https://www.facebook.com/
 phone: 19825085100
 email: 2440229611@qq.com
 
-baseurl: ""
-url:"https:/literaturepro.github.io"
+baseurl: "/LiteraturePro.github.io"
 
 
 permalink: /:year/:month/:day/:title/
