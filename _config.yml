@@ -1,0 +1,21 @@
+# Site settings
+name: Literature
+location: 南京
+company: 
+position: 个人开发者
+github: https://github.com/
+facebook: https://www.facebook.com/
+phone: 19825085100
+email: 2440229611@qq.com
+
+baseurl: ""
+url:"https:/literaturepro.github.io"
+
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
